@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A recent Web Development Graduate from Le Wagon in Paris</h3>
 
-- 🔭 I’m currently working on an MVP for an event-discovery app aimed at romantic couples.
+- 🔭 I’m currently working on an MVP for an event-discovery app for romantic couples.
+
+- 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **jdeschampswright@gmail.com**
 
