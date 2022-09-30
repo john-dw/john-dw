@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an MVP for an event-discovery app for romantic couples.
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React native**.
 
 - 📫 How to reach me **jdeschampswright@gmail.com**
 
