@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A recent Web Development Graduate from Le Wagon in Paris</h3>
 
-- 🔭 I’m currently working on [Toolbox.bike](https://www.toolbox.bike)
+- 🔭 I’m currently working on an MVP for an event-discovery app aimed at romantic couples.
 
 - 📫 How to reach me **jdeschampswright@gmail.com**
 
